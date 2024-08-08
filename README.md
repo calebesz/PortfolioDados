@@ -1,7 +1,7 @@
 # PortfolioDados
 [![author](https://img.shields.io/badge/Author-Calebe_Sousa-8e2fd4.svg)](https://www.linkedin.com/in/jos%C3%A9-calebe-sousa-0b672b1ab/) ![Language](https://img.shields.io/badge/Language-Python_%7C_SQL-blue.svg)
 
-# Portfólio de Projetos em Dados (Buscando valor em Dados)
+# Portfólio de Projetos em Dados
 
 Aqui você encontrará uma seleção de projetos que desenvolvi ao longo da minha jornada acadêmica e profissional, com o objetivo de explorar e interpretar dados para fornecer insights valiosos.
 
