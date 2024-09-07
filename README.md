@@ -13,6 +13,7 @@ Aqui você encontrará:
 
 - Projetos de análises de dados completas utilizando Python
 - Projetos utilizando SQL
+- Dashboard utilizando PowerBI
 
 ------------
 
@@ -23,6 +24,7 @@ Aqui você encontrará:
 | **Análise Spotify Songs** | [Análise 114000 Spotify Songs](https://github.com/calebesz/PortfolioDados/blob/main/An%C3%A1lise%20-%20Spotify%20Songs/SpotifySongs.ipynb) | Python | [Kaggle](https://www.kaggle.com/datasets/priyamchoksi/spotify-dataset-114k-songs) | **Um projeto completo de Analise de dados**, da definição de perguntas de negócio, passando pela Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis*), tratamento até a Resposta das perguntas|
 | **SQL - Practice** | [Practice](https://github.com/calebesz/SQL-Practice/) | SQL | [SQL-Practice](https://www.sql-practice.com/) | **Resolução de problemas SQL** desde o Easy, Medium até o nível Hard |
 | **SQL - Análise Pizzaria** | [Pizza Data Set](https://github.com/calebesz/PizzariaSQL/) | SQL | [Kaggle](https://www.kaggle.com/datasets/umairhayat/pizza-data-set-order-detail/) | **Análise Exploratória dos dados** e resolução de perguntas de negócio utilizando SQL |
+| **Dashboard Financeiro** | [Dashboard PowerBI](https://github.com/calebesz/SuperstorePowerBI) | PowerBI | [PowerBI Docs](https://powerbidocs.com/tag/sample-superstore-sales-excel-xls/?ref=hackernoon.com) | **Dashboard** financeiro com objetivo de fornecer uma visão clara e objetiva dos indicadores chave de desempenho (KPIs) mais relevantes para a empresa, |
 
 
 ------------
