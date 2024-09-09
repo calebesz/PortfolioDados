@@ -13,7 +13,7 @@ Aqui você encontrará:
 
 - Projetos de análises de dados completas utilizando Python
 - Projetos utilizando SQL
-- Dashboard utilizando PowerBI
+- Dashboards utilizando PowerBI
 
 ------------
 
