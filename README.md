@@ -17,7 +17,7 @@ Aqui você encontrará:
 
 ------------
 
-|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
+|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Resumo  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
 | **Análise Salários Data Science** | [Análise Global Salaries for Data Science](https://github.com/calebesz/AnaliseSalariesDataScience) | Python | [Kaggle](https://www.kaggle.com/datasets/lainguyn123/data-science-salary-landscape) | **Um projeto completo de Analise de dados**, da definição de perguntas de negócio, passando pela Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis*), tratamento até a Resposta das perguntas|
 | **Análise Spotify Songs** | [Análise 114000 Spotify Songs](https://github.com/calebesz/SpotifySongs) | Python | [Kaggle](https://www.kaggle.com/datasets/priyamchoksi/spotify-dataset-114k-songs) | **Um projeto completo de Analise de dados**, da definição de perguntas de negócio, passando pela Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis*), tratamento até a Resposta das perguntas|
