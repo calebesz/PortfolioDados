@@ -25,6 +25,7 @@ Aqui você encontrará:
 | **SQL - Practice** | [Practice](https://github.com/calebesz/SQL-Practice/) | SQL | [SQL-Practice](https://www.sql-practice.com/) | **Resolução de problemas SQL** desde o Easy, Medium até o nível Hard |
 | **SQL - Análise Pizzaria** | [Pizza Data Set](https://github.com/calebesz/PizzariaSQL/) | SQL | [Kaggle](https://www.kaggle.com/datasets/umairhayat/pizza-data-set-order-detail/) | **Análise Exploratória dos dados** e resolução de perguntas de negócio utilizando SQL |
 | **Dashboard Financeiro** | [Dashboard PowerBI](https://github.com/calebesz/SuperstorePowerBI) | PowerBI | [PowerBI Docs](https://powerbidocs.com/tag/sample-superstore-sales-excel-xls/?ref=hackernoon.com) | **Dashboard** financeiro com objetivo de fornecer uma visão clara e objetiva dos indicadores chave de desempenho (KPIs) mais relevantes para a empresa|
+| **Dashboard Financeiro** | [Dashboard PowerBI](https://github.com/calebesz/DashboardRH) | PowerBI | [Excel](https://github.com/calebesz/DashboardRH/blob/main/RH%20Base%20de%20dados_v1.xlsx) | **Dashboard** de RH com objetivo de fornecer uma visão clara e objetiva dos indicadores chave de desempenho (KPIs) mais relevantes para a empresa|
 
 
 ------------
